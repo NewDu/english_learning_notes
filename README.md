@@ -52,6 +52,24 @@ When I was a very young person, I began my career as an actress.
 
 Whenever my mother wasn't free to drive me into Manhattan for auditions, I would take the train from suburban New Jersey and meet my father who would have left his desk at the law office where he worked and we will meet under the Upper Platform Arrivals and Departures sign in Penn Station.
 
+### 语法
+#### to which
+the word to which the pronoun refers
+
+to which 介词 + 关系词
+
+refers 需要宾语，看到to which就表示前后要发生关系
+
+介词的位置可以有二种，第一种为介词留在原处，定语从句由which引导。第二种是介词位于which之前。后者是正式语体形式。例如：
+
+This is the book which he has talked about.
+
+which引导定语从句，并在从句中作介词about的宾语，about which在从句作状语。介词about是动词talked要求的。这种介词留在原处的用法为非正式语体。
+
+This is the book about which he has talked.
+
+about which 引导定语从句，which在从句中作about的宾语，介词短语在从句中作状语。
+
 
 
 
